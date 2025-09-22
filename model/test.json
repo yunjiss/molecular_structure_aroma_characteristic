@@ -1,0 +1,687 @@
+[
+  {
+    "mol1": "CCC/C=C/COC(=O)CC(C)C",
+    "mol1_notes": [
+      "grape",
+      "apple",
+      "pear",
+      "cortex",
+      "vegetable",
+      "banana",
+      "waxy",
+      "fresh",
+      "fusel",
+      "green"
+    ],
+    "mol2": "CCCCCCOC(=O)CC1=CC=CC=C1",
+    "mol2_notes": [
+      "honey",
+      "sweet",
+      "powdery",
+      "winey",
+      "floral",
+      "rose",
+      "fruity",
+      "waxy",
+      "foliage",
+      "green"
+    ],
+    "blend_notes": [
+      "green",
+      "fruity"
+    ]
+  },
+  {
+    "mol1": "CC1CCC(=O)C1=O",
+    "mol1_notes": [
+      "maple",
+      "burnt",
+      "sweet",
+      "bready",
+      "woody",
+      "sugar",
+      "coffee",
+      "caramellic"
+    ],
+    "mol2": "CCCCCC1CCCC(=O)O1",
+    "mol2_notes": [
+      "creamy",
+      "lactonic",
+      "coconut",
+      "peach",
+      "sweet",
+      "oily",
+      "fatty",
+      "dairy",
+      "fruity",
+      "fresh",
+      "milky"
+    ],
+    "blend_notes": [
+      "caramellic"
+    ]
+  },
+  {
+    "mol1": "CC(=O)CCC1=CC=C(C=C1)O",
+    "mol1_notes": [
+      "raspberry",
+      "ripe",
+      "berry",
+      "sweet",
+      "woody",
+      "floral",
+      "seedy",
+      "jammy"
+    ],
+    "mol2": "O=C(OC)CC1C(C(=O)CC1)CCCCC",
+    "mol2_notes": [
+      "lactonic",
+      "sweet",
+      "oily",
+      "grapefruit",
+      "jasmin",
+      "woody",
+      "floral",
+      "lemon",
+      "citrus",
+      "fruity",
+      "natural",
+      "tropical",
+      "green"
+    ],
+    "blend_notes": [
+      "floral"
+    ]
+  },
+  {
+    "mol1": "CC(=CCCC(=CCC=C(C)C=C)C)C",
+    "mol1_notes": [
+      "neroli",
+      "lavender",
+      "herbal",
+      "woody",
+      "myrrh",
+      "floral",
+      "citrus",
+      "bergamot",
+      "vegetable",
+      "green"
+    ],
+    "mol2": "CCOC(=O)CCC=C",
+    "mol2_notes": [
+      "herbal",
+      "fruity",
+      "warm",
+      "caramellic",
+      "green"
+    ],
+    "blend_notes": [
+      "ethereal"
+    ]
+  },
+  {
+    "mol1": "CCCCCCC(=O)OCC",
+    "mol1_notes": [
+      "cognac",
+      "sweet",
+      "berry",
+      "green",
+      "rummy",
+      "pineapple",
+      "estery",
+      "fruity",
+      "banana",
+      "seedy",
+      "winey"
+    ],
+    "mol2": "CCCCCCCCC=O",
+    "mol2_notes": [
+      "orris",
+      "orange peel",
+      "fatty",
+      "peely",
+      "rose",
+      "lemon peel",
+      "citrus",
+      "aldehydic",
+      "cucumber",
+      "waxy",
+      "fresh",
+      "green"
+    ],
+    "blend_notes": [
+      "aldehydic"
+    ]
+  },
+  {
+    "mol1": "CCC(=O)C(=O)O",
+    "mol1_notes": [
+      "creamy",
+      "lactonic",
+      "sweet",
+      "brown",
+      "caramellic"
+    ],
+    "mol2": "CCCCCCCCCCCC(=O)OC",
+    "mol2_notes": [
+      "creamy",
+      "coconut",
+      "soapy",
+      "waxy",
+      "mushroom"
+    ],
+    "blend_notes": [
+      "waxy"
+    ]
+  },
+  {
+    "mol1": "CC(C)C(=O)OC(C)(C)CCC1=CC=CC=C1",
+    "mol1_notes": [
+      "powdery",
+      "geranium",
+      "papaya",
+      "plum",
+      "floral",
+      "raisin",
+      "fruity",
+      "honey",
+      "tropical",
+      "green"
+    ],
+    "mol2": "CCOC(=O)C=CC",
+    "mol2_notes": [
+      "cognac",
+      "rummy",
+      "sharp",
+      "pungent",
+      "pineapple",
+      "estery",
+      "fruity",
+      "meaty",
+      "acidic"
+    ],
+    "blend_notes": [
+      "floral",
+      "green"
+    ]
+  },
+  {
+    "mol1": "COC1=C(C=CC(=C1)C=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O",
+    "mol1_notes": [
+      "vanilla"
+    ],
+    "mol2": "[O-]C(=O)C(C)C.O=Cc1cc(OCC)c(O)cc1",
+    "mol2_notes": [
+      "chocolate",
+      "creamy",
+      "vanilla",
+      "sweet",
+      "rummy",
+      "milky",
+      "caramellic"
+    ],
+    "blend_notes": [
+      "vanilla"
+    ]
+  },
+  {
+    "mol1": "CCC=CCCO",
+    "mol1_notes": [
+      "leafy",
+      "green"
+    ],
+    "mol2": "CCCC(C)C(=O)OCC",
+    "mol2_notes": [
+      "fresh",
+      "melon",
+      "natural",
+      "fatty",
+      "pineapple",
+      "fruity",
+      "waxy",
+      "apple skin",
+      "green"
+    ],
+    "blend_notes": [
+      "green",
+      "cooling"
+    ]
+  },
+  {
+    "mol1": "CC1=CC(=CC(=C1C(=O)C)C)C(C)(C)C",
+    "mol1_notes": [
+      "labdanum",
+      "woody",
+      "musk",
+      "rose",
+      "dry",
+      "orangeflower"
+    ],
+    "mol2": "CC1=CC2=C(C=C1)OCC(=O)CO2",
+    "mol2_notes": [
+      "clean",
+      "phenolic",
+      "fresh",
+      "ozone",
+      "melon",
+      "marine",
+      "watery",
+      "green"
+    ],
+    "blend_notes": [
+      "melon"
+    ]
+  },
+  {
+    "mol1": "CC(C1=CC=CC=C1)OC(=O)C",
+    "mol1_notes": [
+      "musty",
+      "berry",
+      "rhubarb",
+      "gardenia",
+      "fruity",
+      "leafy",
+      "seedy",
+      "green"
+    ],
+    "mol2": "O=C(OC)CC1C(C(=O)CC1)CCCCC",
+    "mol2_notes": [
+      "lactonic",
+      "sweet",
+      "oily",
+      "grapefruit",
+      "jasmin",
+      "woody",
+      "floral",
+      "lemon",
+      "citrus",
+      "fruity",
+      "natural",
+      "tropical",
+      "green"
+    ],
+    "blend_notes": [
+      "green",
+      "fruity"
+    ]
+  },
+  {
+    "mol1": "COCCC1=CC=CC=C1",
+    "mol1_notes": [
+      "metallic",
+      "jasmin",
+      "chrysanthemum",
+      "floral",
+      "rose",
+      "green"
+    ],
+    "mol2": "C[C@@H](CC/C=C(\\C)/CCC=C(C)C)CC=O",
+    "mol2_notes": [
+      "creamy",
+      "orchid",
+      "muguet",
+      "floral",
+      "cyclamen",
+      "waxy",
+      "watery",
+      "green"
+    ],
+    "blend_notes": [
+      "floral",
+      "green"
+    ]
+  },
+  {
+    "mol1": "CC(CCC=C(C)C)CC#N",
+    "mol1_notes": [
+      "metallic",
+      "floral",
+      "lemon",
+      "citrus",
+      "waxy",
+      "fresh"
+    ],
+    "mol2": "O=C(C)O[C@@H]1CC[C@@H](CC1)C(C)(C)C",
+    "mol2_notes": [
+      "floral",
+      "pine",
+      "fresh",
+      "fruity"
+    ],
+    "blend_notes": [
+      "citrus"
+    ]
+  },
+  {
+    "mol1": "CC1=CC2C(CCC(=C2CC1)C)C(C)C",
+    "mol1_notes": [
+      "herbal",
+      "woody",
+      "thyme",
+      "dry"
+    ],
+    "mol2": "CC1C2C3CC(C2C=C1C)C(C3)O",
+    "mol2_notes": [
+      "herbal",
+      "woody",
+      "patchouli",
+      "camphoreous",
+      "earthy"
+    ],
+    "blend_notes": [
+      "herbal"
+    ]
+  },
+  {
+    "mol1": "CCC(C)CC(=O)O",
+    "mol1_notes": [
+      "animal",
+      "sharp",
+      "sweaty",
+      "fruity",
+      "cheesy",
+      "acidic",
+      "green"
+    ],
+    "mol2": "CCCC(=O)OCC=C",
+    "mol2_notes": [
+      "sweet",
+      "pineapple",
+      "pungent",
+      "fruity",
+      "waxy",
+      "tropical",
+      "green"
+    ],
+    "blend_notes": [
+      "fruity",
+      "green"
+    ]
+  },
+  {
+    "mol1": "CCCC(=O)O",
+    "mol1_notes": [
+      "buttery",
+      "sharp",
+      "acetic",
+      "dairy",
+      "fruity",
+      "cheesy"
+    ],
+    "mol2": "CCCCCCCC(=O)O",
+    "mol2_notes": [
+      "oily",
+      "cheesy",
+      "fatty",
+      "rancid",
+      "vegetable",
+      "waxy"
+    ],
+    "blend_notes": [
+      "fatty",
+      "soapy"
+    ]
+  },
+  {
+    "mol1": "CC1CCC(=O)C1=O",
+    "mol1_notes": [
+      "maple",
+      "burnt",
+      "sweet",
+      "bready",
+      "woody",
+      "sugar",
+      "coffee",
+      "caramellic"
+    ],
+    "mol2": "CCOC(C)OC(C)(CCCC(C)C)C=C",
+    "mol2_notes": [
+      "cardamom",
+      "sweet",
+      "floral",
+      "fruity",
+      "fresh",
+      "tropical"
+    ],
+    "blend_notes": [
+      "caramellic"
+    ]
+  },
+  {
+    "mol1": "CC(C)CC1CC(CCO1)(C)O",
+    "mol1_notes": [
+      "clean",
+      "muguet",
+      "floral",
+      "fresh",
+      "bois de rose",
+      "natural"
+    ],
+    "mol2": "CC(CCCC(C)(C)O)CCO",
+    "mol2_notes": [
+      "clean",
+      "peony",
+      "lily",
+      "floral",
+      "rose",
+      "green"
+    ],
+    "blend_notes": [
+      "floral"
+    ]
+  },
+  {
+    "mol1": "C1=CC=C(C=C1)CO",
+    "mol1_notes": [
+      "phenolic",
+      "sweet",
+      "floral",
+      "rose",
+      "balsamic",
+      "chemical",
+      "fruity"
+    ],
+    "mol2": "CC(=O)OC(C)(C)CC1=CC=CC=C1",
+    "mol2_notes": [
+      "sweet",
+      "berry",
+      "pear",
+      "jasmin",
+      "powdery",
+      "floral",
+      "rose",
+      "fruity",
+      "green"
+    ],
+    "blend_notes": [
+      "floral"
+    ]
+  },
+  {
+    "mol1": "CC(CCC=C(C)C)CCOC(=O)C",
+    "mol1_notes": [
+      "fruit tropical fruit",
+      "apple",
+      "pear",
+      "woody",
+      "fatty",
+      "floral",
+      "rose",
+      "lemon",
+      "citrus",
+      "fruity",
+      "waxy",
+      "bois de rose",
+      "green"
+    ],
+    "mol2": "C[C@@H](CO)C1=CC=CC=C1",
+    "mol2_notes": [
+      "hawthorn",
+      "hyacinth",
+      "peony",
+      "floral",
+      "fruity",
+      "foliage"
+    ],
+    "blend_notes": [
+      "floral"
+    ]
+  },
+  {
+    "mol1": "CC1CCC(C=C1)(C(C)C)OC(=O)C",
+    "mol1_notes": [
+      "clean",
+      "spicy",
+      "lavender",
+      "herbal",
+      "woody",
+      "floral",
+      "citrus",
+      "bergamot",
+      "waxy",
+      "lime"
+    ],
+    "mol2": "CCC(=O)OC(C)(CCC=C(C)C)C=C",
+    "mol2_notes": [
+      "rummy",
+      "woody",
+      "lily",
+      "rose",
+      "bergamot",
+      "fresh"
+    ],
+    "blend_notes": [
+      "herbal"
+    ]
+  },
+  {
+    "mol1": "C1=CC=C(C=C1)CO",
+    "mol1_notes": [
+      "phenolic",
+      "sweet",
+      "floral",
+      "rose",
+      "balsamic",
+      "chemical",
+      "fruity"
+    ],
+    "mol2": "CCC(C)(CC\\C=C(/C)\\CC\\C=C(/C)\\CCC=C(C)C)O",
+    "mol2_notes": [
+      "floral",
+      "balsamic"
+    ],
+    "blend_notes": [
+      "floral",
+      "fruity"
+    ]
+  },
+  {
+    "mol1": "CC(=CCC/C(=C/CO)/C)C",
+    "mol1_notes": [
+      "sweet",
+      "floral",
+      "rose",
+      "citrus",
+      "fruity",
+      "waxy",
+      "citronella"
+    ],
+    "mol2": "CC1(C2CCC1(C(C2)C3CCC(CC3)O)C)C",
+    "mol2_notes": [
+      "clean",
+      "sweet",
+      "sandalwood",
+      "woody",
+      "balsamic"
+    ],
+    "blend_notes": [
+      "floral"
+    ]
+  },
+  {
+    "mol1": "CC(S)S",
+    "mol1_notes": [
+      "meaty roasted meaty",
+      "meaty",
+      "roasted"
+    ],
+    "mol2": "CC1C(=NC(S1)CC(C)C)C",
+    "mol2_notes": [
+      "cocoa",
+      "burnt",
+      "corn",
+      "sulfurous",
+      "nut skin",
+      "green"
+    ],
+    "blend_notes": [
+      "malty"
+    ]
+  },
+  {
+    "mol1": "CC1C(OC(C(O1)(C)O)C)(C)O",
+    "mol1_notes": [
+      "creamy",
+      "dairy",
+      "buttery",
+      "milky"
+    ],
+    "mol2": "CCCCCCC1CCCC(=O)O1",
+    "mol2_notes": [
+      "creamy",
+      "lactonic",
+      "peach",
+      "coconut",
+      "fatty",
+      "fruity",
+      "waxy",
+      "milky",
+      "green"
+    ],
+    "blend_notes": [
+      "buttery",
+      "dairy"
+    ]
+  },
+  {
+    "mol1": "CC(=O)OC1CCCCC1C(C)(C)C",
+    "mol1_notes": [
+      "herbal",
+      "apple green apple",
+      "woody",
+      "fruity"
+    ],
+    "mol2": "CC1=CCC(C1(C)C)C/C=C(\\C)/C(=O)C",
+    "mol2_notes": [
+      "orris",
+      "sandalwood",
+      "powdery",
+      "woody",
+      "floral"
+    ],
+    "blend_notes": [
+      "fruity"
+    ]
+  },
+  {
+    "mol1": "CCCCCC(=O)OCCC",
+    "mol1_notes": [
+      "sweet",
+      "pineapple",
+      "fruity",
+      "juicy",
+      "tropical",
+      "green"
+    ],
+    "mol2": "CCC\\C=C/CCC(=O)OCC",
+    "mol2_notes": [
+      "juicy",
+      "pear",
+      "fresh",
+      "pineapple"
+    ],
+    "blend_notes": [
+      "fruity"
+    ]
+  }
+]

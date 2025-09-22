@@ -1,0 +1,6 @@
+torch>=1.9.0
+torch-geometric>=2.0.0
+rdkit-pypi
+scikit-learn>=1.0.0
+numpy>=1.21.0
+pandas

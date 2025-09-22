@@ -1,0 +1,5 @@
+.venv/
+model/deepscent_train.json
+myvenv/
+model2/*.pt
+./submission.zip
